@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://linkedin.com/in/nileena-davis">
+    <img src="Nileena_photo.jpg" alt="Nileena Davis" width="150" height="150">
+  </a>
+</p>
+
 # Nileena Davis Portfolio
 
 Welcome to my portfolio! I am an experienced data and software professional with expertise in reporting systems, database development, and big data solutions. Below is a summary of my education, work experience, and skills.
