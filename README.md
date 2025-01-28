@@ -55,9 +55,18 @@ Welcome to my portfolio! I am an experienced data and software professional with
 - **Frameworks**: Big Data Solutions Architecture  
 
 ---
+## Other Projects
+
+| Repository Name                 | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| [Cardiac Risk Predictor](https://github.com/gsebastian11/Cardiac_Risk_Predictor_UI)| The Cardiac Risk Predictor is a software system that will predict the risk of heart disease based 
+on various factors such as age, cholesterol level, and blood pressure and so on. The application 
+utilizes machine learning techniques to analyze input data and generate predictions or risk assessment. The 
+application presents the prediction or risk assessment to the user in a clear and understandable manner, such as 
+displaying the risk level as low, moderate, or high.  
+
 
 ## Contact  
-
-- **GitHub**: [github.com/NileenaDavis](https://github.com/NileenaDavis)  
+ 
 - **LinkedIn**: [linkedin.com/in/nileena-davis](https://linkedin.com/in/nileena-davis)  
 - **Email**: nileenadavis95@gmail.com  
