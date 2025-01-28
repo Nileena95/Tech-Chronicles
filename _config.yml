@@ -1,6 +1,9 @@
 title: Nileena Davis
 theme: jekyll-theme-minimal
-description: Portfolio of Nileena Davis | Reporting Systems, Database Development, and Big Data Solutions
+description: >
+  Portfolio of Nileena Davis | Reporting Systems, Database Development, and Big Data Solutions.  
+  Explore my other projects:  
+  - [Cardiac Risk Predictor](https://github.com/gsebastian11/Cardiac_Risk_Predictor_UI) 
 github_username: Nileena95  
 show_downloads: true 
 
