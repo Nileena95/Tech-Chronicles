@@ -32,13 +32,6 @@ Welcome to my portfolio! I am an experienced data and software professional with
 
 ## Work Experience  
 
-### **Office Administrative Assistant (Part-Time)**  
-*Waterloo Region District School Board | Waterloo, ON, Canada*  
-*Feb 2024 - Present*  
-- Managed and analyzed student attendance data using Power BI for insightful reports.  
-- Utilized the Aspen Student Information System for data entry, report generation, and record management.  
-- Delivered consistent administrative support, streamlining attendance management and improving operational efficiency.  
-
 ### **System Engineer**  
 *Tata Consultancy Services | India*  
 *Dec 2018 - Apr 2023*  
@@ -67,4 +60,4 @@ Welcome to my portfolio! I am an experienced data and software professional with
 
 - **GitHub**: [github.com/NileenaDavis](https://github.com/NileenaDavis)  
 - **LinkedIn**: [linkedin.com/in/nileena-davis](https://linkedin.com/in/nileena-davis)  
-- **Email**: nileena.davis@example.com  *(Replace with your email address)*  
+- **Email**: nileenadavis95@gmail.com  
