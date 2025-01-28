@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/nileena-davis">
-    <img src="Nileena_photo.jpg" alt="Nileena Davis" width="150" height="150">
+    <img src="Nileena_photo.jpg" alt="Nileena Davis" width="200" height="150">
   </a>
 </p>
 
